@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jufin-hassan
 - 👀 I’m interested in Full Stack Web Dev (MERN)
-- 🌱 I’m currently learning DSA and Web Dev
-- 📫 How to reach me ju4jufin@gmail.com
+- 🌱 I’m currently learning Web Dev and DSA  
+- 📫 How to reach me- ping me @ ---> ju4jufin@gmail.com
 Nice Meetin you!
 
 <!---
